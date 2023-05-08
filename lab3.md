@@ -24,7 +24,15 @@ whenever it goes down for the rest of the text. You could use s or d and b to go
 
 As seen in this case, it does not show the whole thing and gives us the option to go up or down depending on what you want to do.
 
-### **Example 2*
+### **Example 2**
 
 * The command I used was `more +70 stringsearch-data/technical/government/Media/Abuse_penalties.txt`
 ![Image](Lab3More2.png)
+For this, it will show the text from 70 lines and after, so anything before that would not appear on the command line
+---
+
+## `Cat`
+- For this command, it gives us the option to concatenate and is able to display one or more files. It does not give the navigation access like `less` but it helps to quickly see different files. 
+
+### **Example 1**
+![Image](Lab3Cat1.png)
