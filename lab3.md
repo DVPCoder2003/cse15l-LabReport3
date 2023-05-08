@@ -71,7 +71,7 @@ With this, you have a lot more freedom with how many lines you want to see at th
 ### Example 1
 - I used this code: `tail stringsearch-data/technical/government/Media/Abuse_penalties.txt`
 ![Image](Lab3Tail1.png)
-- As seen, it will only give you the last few lines of the file that you had choseN. If there is no parameter that you use, it will only give the last 10 lines. If you want to see.
+- As seen, it will only give you the last few lines of the file that you had chosen. If there is no parameter that you use, it will only give the last 10 lines. If you want to see.
 
 ### Example 2
 - I had used this code: `tail -c 350 stringsearch-data/technical/government/Media/Abuse_penalties.txt`
