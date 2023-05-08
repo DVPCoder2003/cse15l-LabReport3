@@ -32,7 +32,17 @@ For this, it will show the text from 70 lines and after, so anything before that
 ---
 
 ## `Cat`
+- The link that I had used to help me was [https://www.tecmint.com/13-basic-cat-command-examples-in-linux/](9https://www.tecmint.com/13-basic-cat-command-examples-in-linux/)
 - For this command, it gives us the option to concatenate and is able to display one or more files. It does not give the navigation access like `less` but it helps to quickly see different files. 
 
 ### **Example 1**
+
+* The command that I used was `cat stringsearch-data/technical/government/Media/Abuse_penalties.txt`
 ![Image](Lab3Cat1.png)
+For this, the `cat` command just prints out whatever is in the Abuse_penalties.txt, so you do not have to press any buttons to get the other parts as it is all there
+
+### **Example 2**
+
+* The command that I used was `cat stringsearch-data/technical/government/Media/Abuse_penalties.txt`
+![Image](LabCat2.png)
+
