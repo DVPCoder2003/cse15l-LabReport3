@@ -44,5 +44,5 @@ For this, the `cat` command just prints out whatever is in the Abuse_penalties.t
 ### **Example 2**
 
 * The command that I used was `cat stringsearch-data/technical/government/Media/Abuse_penalties.txt`
-![Image](LabCat2.png)
+![Image](Lab3Cat2.png)
 
