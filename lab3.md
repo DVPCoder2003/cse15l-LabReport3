@@ -56,4 +56,10 @@ This gives a number to each of the line in the file. If  you possibly want to is
 
 * The command that I used was `head stringsearch-data/technical/government/Media/Abuse_penalties.txt`
 ![Image](Lab3Head1.png)
-As seen, it gives the first 10 lines with no other parameters, allowing you to see 
+As seen, it gives the first 10 lines with no other parameters, allowing you to see a preview of a file, which could he helpful if you don't have the time to see the whole thing.
+
+### Example 2 
+
+* The command that I had used was `head -n 30 stringsearch-data/technical/government/Media/Abuse_penalties.txt`
+* ![Image](Lab3Head2.png)
+With this, you have a lot more freedom with how many lines you want to see at the start, which gives you the choice to see how many lines you need out of the file you are using this command with.
