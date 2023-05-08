@@ -74,7 +74,7 @@ With this, you have a lot more freedom with how many lines you want to see at th
 - As seen, it will only give you the last few lines of the file that you had choseN. If there is no parameter that you use, it will only give the last 10 lines. If you want to see.
 
 ### Example 2
--I had used this code: `tail -c 350 stringsearch-data/technical/government/Media/Abuse_penalties.txt`
+- I had used this code: `tail -c 350 stringsearch-data/technical/government/Media/Abuse_penalties.txt`
 ![Image](Lab3Tail2.png)
 - The `-c` command is to help us find out the last 350 bytes of the file. In this case, bytes would equal one character of a word, so it would give us a precise amount of words or phrases from the end that we need. A cool thing is that since `head` is its complimentary, it also has the ability, just this time from the front.
 ---
