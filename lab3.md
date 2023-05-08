@@ -43,6 +43,17 @@ For this, the `cat` command just prints out whatever is in the Abuse_penalties.t
 
 ### **Example 2**
 
-* The command that I used was `cat stringsearch-data/technical/government/Media/Abuse_penalties.txt`
+* The command that I used was `cat -n stringsearch-data/technical/government/Media/Abuse_penalties.txt`
 ![Image](Lab3Cat2.png)
+This gives a number to each of the line in the file. If  you possibly want to isolate a certain line from a file this could be handy to find the exact line number it is on.
+---
+## `Head`
 
+- For this command, I had used the website [https://www.geeksforgeeks.org/head-command-linux-examples/](https://www.geeksforgeeks.org/head-command-linux-examples/)
+- For this command, `head` on its own will produce only the first 10 lines of a file. This will help if you would want to just quickly view a bit of the file's starting contents, similar to one of the `cat` commands that you could do.
+
+### Example 1
+
+* The command that I used was `head stringsearch-data/technical/government/Media/Abuse_penalties.txt`
+![Image](Lab3Head1.png)
+As seen, it gives the first 10 lines with no other parameters, allowing you to see 
