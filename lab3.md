@@ -49,7 +49,7 @@ This gives a number to each of the line in the file. If  you possibly want to is
 ---
 ## `Head`
 
-- For this command, I had used the website [https://www.geeksforgeeks.org/head-command-linux-examples/](https://www.geeksforgeeks.org/head-command-linux-examples/)
+- The link that I used to help me with this is [https://www.geeksforgeeks.org/head-command-linux-examples/](https://www.geeksforgeeks.org/head-command-linux-examples/)
 - For this command, `head` on its own will produce only the first 10 lines of a file. This will help if you would want to just quickly view a bit of the file's starting contents, similar to one of the `cat` commands that you could do.
 
 ### Example 1
@@ -63,3 +63,13 @@ As seen, it gives the first 10 lines with no other parameters, allowing you to s
 * The command that I had used was `head -n 30 stringsearch-data/technical/government/Media/Abuse_penalties.txt`
 * ![Image](Lab3Head2.png)
 With this, you have a lot more freedom with how many lines you want to see at the start, which gives you the choice to see how many lines you need out of the file you are using this command with.
+---
+## `Tail`
+- To help me, I used this website: [https://www.geeksforgeeks.org/tail-command-linux-examples/](https://www.geeksforgeeks.org/tail-command-linux-examples/)
+- `Tail` is a complimentary to `head`, as without any additional input it will just give you the last 10 lines of the file that you had chose.
+
+### Example 1
+- I used this code: `tail stringsearch-data/technical/government/Media/Abuse_penalties.txt`
+![Image](Lab3Tail1.png)
+
+
